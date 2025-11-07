@@ -42,8 +42,6 @@ aplicarOperacion f a b = f a b
 -- En una línea: aplica la función que se recibió (‘f’) a los valores ‘a’ y ‘b’.
 
 -- | 3. Función principal (main)
--- Aquí solo muestro ejemplos de cómo usar la función ‘aplicarOperacion’
--- pasando diferentes funciones como parámetro. 
 main :: IO ()
 main = do
   let num1 = 10

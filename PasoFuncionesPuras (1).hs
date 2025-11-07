@@ -10,9 +10,9 @@
   como una función de orden superior.
 
   Curso: MCA 1 2026-1 FCiencias
-  Tema: Paso de una función como parámetro / Funciones de Orden Superior
+  Tema: Paso de una función como parámetro
   Software: GHC (Glasgow Haskell Compiler)
-  Autor: Diego Ciros Ortiz
+  Diego Ciros Ortiz
   Fecha: 05/11/2025
 -}
 
